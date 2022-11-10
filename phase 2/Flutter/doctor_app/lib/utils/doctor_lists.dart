@@ -1,0 +1,14 @@
+import 'package:doctors_app/models/doctors.dart';
+
+List<Doctors> doctors = [
+  Doctors(doctorName: 'Christian Frazier', doctorType: 'Age: 23 years', doctorLocation: 'London', doctorExperience: 12, doctorPatients: 230, doctorAbout: 'Specializes in surgical procedures of the heart, lungs, esophagus, and other organs in the chest.', doctorImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIAdV4dzpo-bWx6EutgDgDyX1JzYMe5JwTg&usqp=CAU'),
+  Doctors(doctorName: 'Kamilla Andrews', doctorType: 'Age: 24 years', doctorLocation: 'Bristol', doctorExperience: 7, doctorPatients: 180, doctorAbout: 'Specializes in the anatomy, functions, and organic disorders of nerves and the nervous system.', doctorImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxA87OC2WiDbVe2wSGvpgazOIM1tGqc5OOJw&usqp=CAU'),
+  Doctors(doctorName: 'Angela Yu', doctorType: 'Age: 25years', doctorLocation: 'Manchester', doctorExperience: 4, doctorPatients: 130, doctorAbout: 'Specializes in the branch of biology that deals with the normal functions of living organisms and their parts.', doctorImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjnDjjs8yyspJn7HgAnyCH3f-YEaW-pAh3fQ&usqp=CAU'),
+  Doctors(doctorName: 'hanady Müller', doctorType: 'Age: 22 years', doctorLocation: 'London', doctorExperience: 18, doctorPatients: 530, doctorAbout: 'Specializes in health issues brought on by immune system problems', doctorImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVdac_q9yMZwjg1zXK11tbyB0nt1FS7Qk-aQ&usqp=CAU'),
+  Doctors(doctorName: 'koky Bizzotto', doctorType: 'Age: 22 years', doctorLocation: 'Bristol', doctorExperience: 6, doctorPatients: 90, doctorAbout: 'Specializes in teeth, gums, and the mouth. ', doctorImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBFGtTKtlEzFb0Jz3UlJ1kfI9_8pTI3xDRg&usqp=CAU'),
+  Doctors(doctorName: 'Mrayme Gomez', doctorType: 'Age: 27years', doctorLocation: 'Manchester', doctorExperience: 12, doctorPatients: 250, doctorAbout: 'Specializes in the anatomy, functions, and organic disorders of nerves and the nervous system', doctorImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQICosjOWpqKpeHUWhz--1ZhcPZC5opMXhhQ&usqp=CAU'),
+  Doctors(doctorName: 'Iva Carpenter', doctorType: 'Age: 22 years', doctorLocation: 'London', doctorExperience: 2, doctorPatients: 50, doctorAbout: 'Specializes in X-rays or other high-energy radiation, especially a doctor specializing in radiology', doctorImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcacfSZCEw1vPa3WxPx9TxH1qd0ekeJsveKA&usqp=CAU'),
+  Doctors(doctorName: 'Martin Smith', doctorType: 'Age: 30 years', doctorLocation: 'London', doctorExperience: 12, doctorPatients: 550, doctorAbout: 'Specializing in the diagnosis and treatment of mental illness', doctorImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cf52z0WiGCsF6hAxEdxAnLNQrDO0tIzcOQ&usqp=CAU'),
+];
+
+
